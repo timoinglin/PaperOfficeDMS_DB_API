@@ -5,6 +5,7 @@ A FastAPI application for retrieving data from the PaperOfficeDMS database. This
 
 **Note:** This is not an official API for PaperOfficeDMS.
 
+
 ## Table of Contents
 
 - [Features](#features)
@@ -283,6 +284,9 @@ curl -X GET "http://localhost:8000/documents/?name=contract" \
 - **ReDoc:** [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
 The API documentation provides detailed information about each endpoint, including parameters, responses, and example requests.
+
+![Screenshot of the PaperOffice DMS API](https://raw.githubusercontent.com/timoinglin/PaperOfficeDMS_DB_API/refs/heads/main/screenshot.jpg)
+
 
 ## License
 

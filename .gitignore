@@ -1,0 +1,19 @@
+# Environment folders
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python specific
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+
+# Ignore virtual environment management tools
+pip-log.txt
+pip-delete-this-directory.txt
